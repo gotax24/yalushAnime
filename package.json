@@ -1,7 +1,7 @@
 {
-  "name": "yalushanime",
-  "private": true,
-  "version": "0.0.0",
+  "name": "llarbot",
+  "private": false,
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -24,5 +24,10 @@
     "eslint-plugin-react-refresh": "^0.4.14",
     "globals": "^15.11.0",
     "vite": "^5.4.10"
-  }
+  },
+  "description": "Pagina para saber de anime",
+  "main": "main.jsx",
+  "repository": "https://github.com/gotax24/yalushAnime",
+  "author": "Ernesto Bracho R",
+  "license": "MIT"
 }
